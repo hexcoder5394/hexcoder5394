@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Achintha Prasanna Jayalal</h1>
-<h3 align="center">A passionate Back-End developer from Srilanka</h3>
+<h3 align="center">A passionate System and Infrastructure Administrator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexcoder5394&label=Profile%20views&color=0e75b6&style=flat" alt="hexcoder5394" /> </p>
 
-- 🌱 I’m currently learning **HND in Information Technology**
+- 🌱 I’m currently Reading **BSc in Computer Networks and Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [http://iamachintha.site/?i=1](http://iamachintha.site/?i=1)
+- 👨‍💻 All of my projects are available at [https://achintha.xyz/?i=1](https://achintha.xyz)
 
 - 📝 I regularly write articles on [https://achisnap.wordpress.com/](https://achisnap.wordpress.com/)
 
 - 💬 Ask me about **Python, Django, Back-End Technologies**
 
-- 📫 How to reach me **achinthajayalal001@gmail.com**
+- 📫 How to reach me **achinthajayalal001@gmail.com/achintha.jayalal@outlook.com**
 
 - 📄 Know about my Education & Experience [http://iamachintha.site/cv.html](http://iamachintha.site/cv.html)
 
